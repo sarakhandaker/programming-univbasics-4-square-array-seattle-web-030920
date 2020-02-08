@@ -1,3 +1,8 @@
 def square_array(array)
-  # your code here
+sqarr=[]
+n=0
+while array(n) do
+  sqarr[n]=array**2
+end
+sqarr
 end
